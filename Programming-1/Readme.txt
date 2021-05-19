@@ -1,0 +1,1 @@
+Q1 a & c for fibonocci sequence are included in the Q1ai.c & Q1aii.c

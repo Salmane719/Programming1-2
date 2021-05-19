@@ -1,0 +1,13 @@
+
+
+Input:
+sx = 4;
+    sy = 1;
+    dx = 7;
+    dy = 15;
+
+Output:
+[Running] cd "c:\Users\Ashraf Ali\Desktop\Practice\" && gcc pacman_Ashraf.c -o pacman_Ashraf && "c:\Users\Ashraf Ali\Desktop\Practice\"pacman_Ashraf
+R w w w R w w w w w w w w w w w w w w 
+
+[Done] exited with code=0 in 0.396 seconds

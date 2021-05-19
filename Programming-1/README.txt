@@ -1,0 +1,2 @@
+I have the first question in 2 solutions, one for O(N^2) that should really work for all cases and another for O(N) that I'm a bit more iffy about
+The Second Question(lengths.c) requires a test.txt file to work
